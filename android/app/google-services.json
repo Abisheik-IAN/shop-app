@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "252986816093",
+    "project_id": "fir-crud-4e476",
+    "storage_bucket": "fir-crud-4e476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252986816093:android:8381afb98aec35fc627fb4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252986816093-3e3ka2q6q89sv1713io3i17o7imo506k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Zgop5lb0_xSn13Na32rvpzM893C9ZwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252986816093-3e3ka2q6q89sv1713io3i17o7imo506k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252986816093-0spmubsibbhrgmcf5vusok1l4i7eoqqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCrud"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252986816093:android:bbd6dcada4522cc3627fb4",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252986816093-3e3ka2q6q89sv1713io3i17o7imo506k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Zgop5lb0_xSn13Na32rvpzM893C9ZwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252986816093-3e3ka2q6q89sv1713io3i17o7imo506k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252986816093-0spmubsibbhrgmcf5vusok1l4i7eoqqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCrud"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252986816093:android:6bed7a62024de242627fb4",
+        "android_client_info": {
+          "package_name": "com.example.shop_app_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252986816093-3e3ka2q6q89sv1713io3i17o7imo506k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Zgop5lb0_xSn13Na32rvpzM893C9ZwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252986816093-3e3ka2q6q89sv1713io3i17o7imo506k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252986816093-0spmubsibbhrgmcf5vusok1l4i7eoqqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCrud"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252986816093:android:9d6a8bbc2aaaeee6627fb4",
+        "android_client_info": {
+          "package_name": "com.example.shopapp_multiplatform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252986816093-3e3ka2q6q89sv1713io3i17o7imo506k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Zgop5lb0_xSn13Na32rvpzM893C9ZwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252986816093-3e3ka2q6q89sv1713io3i17o7imo506k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252986816093-0spmubsibbhrgmcf5vusok1l4i7eoqqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCrud"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
